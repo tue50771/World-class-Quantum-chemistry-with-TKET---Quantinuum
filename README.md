@@ -1,7 +1,7 @@
 # World-class-Quantum-chemistry-with-TKET---Quantinuum
 Womanium Quantum Hackathon 2022
 
-#Team Name :Qupolis
+# Team Name :Qupolis
 
 # Teammembers 
 
