@@ -10,7 +10,7 @@ Womanium Quantum Hackathon 2022
 | Austin Beller   | ambeller@syr.edu    | Demi Demo       |
 | Dustin          |                     | mrEB            |
 | Phung Cheng Fei | feiphung@hotmail.com| buttercutter    |
-| Rina Ismailati  |                     | Rina Ismailati  |
+| Rina Ismailati  | rina25tir@yahoo.com | Rina Ismailati  |
 | Sheakha Aldaihan|                     | Sheakha Aldaihan|
 
 # Basic
