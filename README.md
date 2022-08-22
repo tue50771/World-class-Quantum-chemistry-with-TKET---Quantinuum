@@ -13,6 +13,8 @@ Womanium Quantum Hackathon 2022
 | Rina Ismailati  | rina25tir@yahoo.com | Rina Ismailati  |
 | Sheakha Aldaihan|                     | Sheakha Aldaihan|
 
+Rina Ismailati will be presenting!
+
 # Basic
 # Advanced 
 # Knowledgeble 
