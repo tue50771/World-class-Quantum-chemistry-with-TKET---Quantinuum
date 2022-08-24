@@ -5,11 +5,11 @@ Womanium Quantum Hackathon 2022
 
 # Teammembers 
 
-| Name            | Email             | Discord           |
-| --------------- |:-------------------:| --------------: |
-| Austin Beller   | ambeller@syr.edu    | Demi Demo       |
-| Phung Cheng Fei | feiphung@hotmail.com| buttercutter    |
-| Rina Ismailati  | rina25tir@yahoo.com | Rina Ismailati  |
+| Name            | Email               | Discord         | Github        |
+| --------------- |:-------------------:| --------------: |--------------:|
+| Austin Beller   | ambeller@syr.edu    | Demi Demo       |tue50771       |
+| Phung Cheng Fei | feiphung@hotmail.com| buttercutter    |Phung Cheng Fei|
+| Rina Ismailati  | rina25tir@yahoo.com | Rina Ismailati  |Rina           |
 
 Rina Ismailati will be presenting!
 
